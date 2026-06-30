@@ -14,6 +14,9 @@ def emotion_detector(text_to_analyse):
     fear_score = emotion["fear"]
     joy_score = emotion["joy"]
     sadness_score = emotion["sadness"]
+    asc = sorted(emotion.items(), key=lambda item: item[1])
+    print(asc)
+    dominant_emotion = asc[0]
     return {
         "anger": anger_score,
         "disgust": disgust_score,

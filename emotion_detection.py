@@ -23,5 +23,5 @@ def emotion_detector(text_to_analyse):
         "fear": fear_score,
         "joy": joy_score,
         "sadness": sadness_score,
-        "dominant_emotion": dominant_emotion
+        "dominant_emotion": dominant_emotion,
     }

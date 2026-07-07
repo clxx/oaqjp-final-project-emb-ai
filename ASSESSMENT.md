@@ -1,9 +1,0 @@
-## Task 1
-
-https://github.com/clxx/oaqjp-final-project-emb-ai/blob/main/README.md
-https://raw.githubusercontent.com/clxx/oaqjp-final-project-emb-ai/refs/heads/main/README.md
-
-## Task 4
-
-https://github.com/clxx/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/__init__.py
-https://raw.githubusercontent.com/clxx/oaqjp-final-project-emb-ai/refs/heads/main/EmotionDetection/__init__.py
